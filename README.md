@@ -27,7 +27,6 @@
    <p>In this week, I completed a graded assessment where I had to design and develop an API for a blog application using Django REST framework.</p>
 
    <!-- License -->
-   <h2>License</h2>
-   <p>This project is licensed under the MIT License - see the LICENSE.md file for details.</p>
+   
 
 </body>
